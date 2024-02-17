@@ -18,3 +18,6 @@ I'll also be adding a demo and overview of **TL;DP** to my YouTube channel.
 ## Credits
 - [RAWG API](https://rawg.io/apidocs): Used to source data for custom video game database.
 - [OPEN API](https://swagger.io/specification/): Used to define specifications for **TL;DP** api endpoint.
+
+## Additional Links
+- [DEMO AND OVERVIEW]([https://rawg.io/apidocs](https://youtu.be/dbgazw57vI8))
