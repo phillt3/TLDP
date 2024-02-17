@@ -20,4 +20,4 @@ I'll also be adding a demo and overview of **TL;DP** to my YouTube channel.
 - [OPEN API](https://swagger.io/specification/): Used to define specifications for **TL;DP** api endpoint.
 
 ## Additional Links
-- [DEMO AND OVERVIEW]([https://rawg.io/apidocs](https://youtu.be/dbgazw57vI8))
+- [DEMO AND OVERVIEW](https://youtu.be/dbgazw57vI8)
