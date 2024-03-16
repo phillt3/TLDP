@@ -21,3 +21,13 @@ I'll also be adding a demo and overview of **TL;DP** to my YouTube channel.
 
 ## Additional Links
 - [DEMO AND OVERVIEW](https://youtu.be/dbgazw57vI8)
+
+## Screenshots
+
+![Screenshot 2024-03-16 163534](https://github.com/phillt3/TLDP/assets/46726184/675987fc-45b6-4f7b-8b74-34ed7f80cb50)
+
+
+![Screenshot 2024-03-16 163650](https://github.com/phillt3/TLDP/assets/46726184/ad7d72eb-b0be-4129-81ae-b17d3e2d6207)
+
+
+![Screenshot 2024-03-16 163836](https://github.com/phillt3/TLDP/assets/46726184/d57f785f-591d-4dff-ba41-8a8ae5a75856)
